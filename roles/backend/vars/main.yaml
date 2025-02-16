@@ -1,3 +1,6 @@
 MYSQL_HOSTS: mysql.ngdaws82s.fun
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp@1
+APP_LOCATION: /app
+COMPONENT: backend
+
